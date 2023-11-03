@@ -6,12 +6,10 @@ permalink: /
 ---
 
 ### Welcome!
-
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+I am a fifth-year PhD student in computer science major at University of Illinois at Urbana-Champaign,
+supervised by Prof. Tarek Abdelzaher. My research interests lie in Internet of Things (IoT), deep learning and
+mobile computing. My current research topics include generative models for IoT, neural network robustness,
+foundation models for IoT, and deep learning in the frequency domain. I expect to graduate in July 2024.
 
 <div class="container">
 <div class="row">
